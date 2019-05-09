@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 # Specify your gem's dependencies in jquery-imagereloader-rails.gemspec
 gemspec
 
-ruby '2.2.3'
+ruby '2.6.3'
 
-gem 'rails', '~> 3.2'
+gem 'rails', '~> 5.2'
+
